@@ -1,0 +1,8 @@
+{
+  "ts_doc": {
+    "prefix": "doc",
+    "body": ["/**", " * ", " */"],
+    "description": "Adds documentation lines",
+    "scope": "javascript,typescript"
+  }
+}

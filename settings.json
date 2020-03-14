@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": false,
+  "typescript.extension.sortImports.sortOnSave": true,
+  "prettier.printWidth": 160,
+  "prettier.singleQuote": true,
+  "editor.wordWrapColumn": 160,
+  "editor.tabSize": 2,
+  "workbench.editor.limit.value": 5,
+  "workbench.editor.limit.enabled": true
+}

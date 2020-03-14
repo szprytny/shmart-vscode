@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "eamodio.gitlens",
+    "pnp.polacode",
+    "esbenp.prettier-vscode",
+    "quicktype.quicktype",
+    "miclo.sort-typescript-imports"
+  ]
+}
